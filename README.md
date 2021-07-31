@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&theme=nightowl&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeong-chungbuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeong-chungbuk&layout=compact)](https://github.com/juyeong-chungbuk/github-readme-stats)
 
