@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm JuYeong Shin ! 👋
+
+Skills : 
 
 <!--
 **juyeong-chungbuk/juyeong-chungbuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,5 @@ Here are some ideas to get you started:
 
 ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&theme=nightowl&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeong-chungbuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&show_icons=true&theme=radical)
-
-[![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk)](hJuyeong-chungbukub.com/juyeong-chungbuk/github-readme-stats)
