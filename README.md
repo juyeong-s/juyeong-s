@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&show_icons=true&theme=radical)
+
 [![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk)](hJuyeong-chungbukub.com/juyeong-chungbuk/github-readme-stats)
