@@ -11,7 +11,7 @@
 
 - 🐰 I’m currently working on [Django Project](https://github.com/juyeong-chungbuk/VeganCommunity)
 - 🐹 I’m currently learning [Vue](https://github.com/juyeong-chungbuk/Community-project)
-- 🐷  Come play on [my coding blog !](https://juyami.tistory.com/)
+- 🐷  Come play on [my coding blog !](https://juyami.tistory.com/) / [velog !](https://velog.io/@shinoung2360)
 
 ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&theme=nightowl&show_icons=true)
 
