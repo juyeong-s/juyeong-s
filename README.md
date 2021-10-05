@@ -15,5 +15,5 @@
 - 🐰 I’m currently learning React, [Vue](https://github.com/juyeong-chungbuk/Community-project), [SQL](https://github.com/juyeong-chungbuk/SQL_study), [Django](https://github.com/juyeong-chungbuk/VeganCommunity)
 - 🐹 Come play on [my coding blog !](https://juyami.tistory.com/) / [velog !](https://velog.io/@shinoung2360)
 
-![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
