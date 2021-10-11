@@ -11,7 +11,7 @@
 <code><img height="25" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"></code>
 
 
-- 💻 I will be a front-end developer!
+- 💻 I will be a front-end developer.
 - 🐰 I’m currently learning React, [Vue](https://github.com/juyeong-chungbuk/Community-project), [SQL](https://github.com/juyeong-chungbuk/SQL_study), [Django](https://github.com/juyeong-chungbuk/VeganCommunity)
 - 🐹 Come play on [my coding blog !](https://juyami.tistory.com/) / [velog !](https://velog.io/@shinoung2360)
 
