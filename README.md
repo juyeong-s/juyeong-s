@@ -1,4 +1,5 @@
 ### Hi there, I'm JuYeong Shin ! 👋
+CBNU Computer Science
 
 **LikeLion 9th**
 
