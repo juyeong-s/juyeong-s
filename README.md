@@ -1,4 +1,3 @@
-### Hi, I'm JuYeong
 CBNU Computer Science
 
 **LikeLion 9th**
@@ -13,7 +12,7 @@ CBNU Computer Science
 
 
 - 💻 I will be a front-end developer.
-- 🐰 I’m currently learning React, [Vue](https://github.com/juyeong-chungbuk/Community-project), [SQL](https://github.com/juyeong-chungbuk/SQL_study), [Django](https://github.com/juyeong-chungbuk/VeganCommunity)
+- 🐰 I’m currently learning [React](https://github.com/CBNU-AACP/Client.git), [Vue](https://github.com/juyeong-chungbuk/Community-project), [SQL](https://github.com/juyeong-chungbuk/SQL_study)
 - 🐹 [Coding Blog](https://juyami.tistory.com/) / [velog](https://velog.io/@shinoung2360)
 
 ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
