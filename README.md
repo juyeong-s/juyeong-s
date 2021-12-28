@@ -11,7 +11,7 @@ CBNU Computer Science
 <code><img height="25" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"></code>
 
 
-- 💻 나는 프런트엔드 개발자가 될거당 ~3~
+- 💻 나는 프런트엔드 개발자가 될거당 ~ 3 ~
 - 🐰 난 요즘 리액트 배우고 있당 ㅇ3ㅇ [React](https://github.com/CBNU-AACP/Client.git)
 - 🐶 알고리즘도 풀지롱 '3' [Javascript-Algorithm]()
 - 🐹 TIL블로그 쓰고있당 -3- [Coding Blog](https://juyami.tistory.com/) / [velog](https://velog.io/@shinoung2360)
