@@ -1,4 +1,4 @@
-CBNU Computer Science
+**major in software**
 
 **LikeLion 9th**
 
@@ -15,4 +15,3 @@ CBNU Computer Science
 - 🐹 [Coding Blog](https://juyami.tistory.com/) / [velog](https://velog.io/@shinoung2360)
 
 ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-s&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
-
