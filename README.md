@@ -10,7 +10,7 @@ CBNU Computer Science
 <code><img height="25" src="https://img.shields.io/badge/-Vue.js-1AB09F?style=flat&logo=Vue.js"></code>
 <code><img height="25" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"></code> -->
 
-
+- 👩🏻‍💻 Front-end Developer
 - 💻 [Javascript-Algorithm](https://github.com/thdwlsgus0/algo_spot)
 - 🐹 [Coding Blog](https://juyami.tistory.com/) / [velog](https://velog.io/@shinoung2360)
 
