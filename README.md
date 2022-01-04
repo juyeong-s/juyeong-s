@@ -14,5 +14,5 @@ CBNU Computer Science
 - 💻 [Javascript-Algorithm](https://github.com/thdwlsgus0/algo_spot)
 - 🐹 [Coding Blog](https://juyami.tistory.com/) / [velog](https://velog.io/@shinoung2360)
 
-![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-chungbuk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-s&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
