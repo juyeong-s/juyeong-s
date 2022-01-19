@@ -1,4 +1,4 @@
-**major in software**
+**Hi, I'm majoring in software**
 
 **LikeLion 9th**
 
