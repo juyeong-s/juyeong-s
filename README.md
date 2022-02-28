@@ -13,5 +13,6 @@
 - 👩🏻‍💻 Front-end Developer
 - 💻 [Javascript-Algorithm](https://github.com/thdwlsgus0/algo_spot)
 - 🐹 [Coding Blog](https://juyami.tistory.com/) / [velog](https://velog.io/@shinoung2360)
+- 📕 [포트폴리오](https://www.notion.so/10d00028923644da9c1fb398a3c87fe5)
 
 ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-s&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
