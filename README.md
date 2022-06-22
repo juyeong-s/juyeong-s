@@ -1,16 +1,51 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=juyeong-s&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=juyeong-s&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I use the most </p>
 
 <p align="center">
-  <code><img height="25" src="https://img.shields.io/badge/-JavaScript-FFC81E?style=flat&logo=JavaScript"></code>
-  <code><img height="25" src="https://img.shields.io/badge/-Python-3CA0E1?style=flat&logo=Python"></code>
-  <code><img height="25" src="https://img.shields.io/badge/-React-0088CC?style=flat&logo=React"></code>
-  <code><img height="25" src="https://img.shields.io/badge/-Vue.js-1AB09F?style=flat&logo=Vue.js"></code>
-  <code><img height="25" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"></code>
+  <img src="https://img.shields.io/badge/JavaScript-FFC81E?style=flat-square&logo=JavaScript&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/React.js-0088CC?style=flat-square&logo=React&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Vue.js-1AB09F?style=flat-square&logo=Vue.js&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://juyami.tistory.com/"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white&link=https://juyami.tistory.com/"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Zustand-66595C?style=flat-square&logo=Zerply&logoColor=white&link=https://juyami.tistory.com/"/>
+</p>
+
+<p align="center"> Tools </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=https://juyami.tistory.com/"/>
+</p>
+
+<p align="center"> Used at least once </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-0088CC?style=flat-square&logo=React&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white&link=https://juyami.tistory.com/"/>
+</p>
+
 
 <br>
 
@@ -22,8 +57,7 @@
   
 <br>
 
-
-<h3 align="center"> 🐰 Me 🐰 </h3>
+<h3 align="center"> ☾⋆⁺₊⋆🐰 Me 🐰⋆⁺₊⋆☾ </h3>
 <p align="center">
   <a href="https://juyami.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-21375A?style=flat-square&logo=Blogger&logoColor=white&link=https://juyami.tistory.com/"/></a>&nbsp
    <a href="https://velog.io/@shinoung2360"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@shinoung2360"/></a>&nbsp
