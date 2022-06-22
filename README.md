@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFC81E?style=flat-square&logo=JavaScript&logoColor=white&link=https://juyami.tistory.com/"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&link=https://juyami.tistory.com/"/>
-  <img src="https://img.shields.io/badge/React.js-0088CC?style=flat-square&logo=React&logoColor=white&link=https://juyami.tistory.com/"/>
-  <img src="https://img.shields.io/badge/Vue.js-1AB09F?style=flat-square&logo=Vue.js&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white&link=https://juyami.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Vue-1AB09F?style=flat-square&logo=Vue.js&logoColor=white&link=https://juyami.tistory.com/"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white&link=https://juyami.tistory.com/"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://juyami.tistory.com/"/>
 </p>
