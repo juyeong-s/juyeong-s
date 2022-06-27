@@ -53,9 +53,13 @@
   
   ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-s&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
   
-</div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shinoung2360)](https://solved.ac/shinoung2360)
   
-<br>
+</div>
+
+---  
+
 
 <h3 align="center"> ☾⋆⁺₊⋆🐰 Me 🐰⋆⁺₊⋆☾ </h3>
 <p align="center">
