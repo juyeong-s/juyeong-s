@@ -15,6 +15,7 @@
   
   <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-66595C?style=flat-square&logo=Zerply&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
  
