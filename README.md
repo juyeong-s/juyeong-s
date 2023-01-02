@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </p>
 
-<div>
-  
-  ![Juyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=juyeong-s&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
-
-</div>
-
 <h3> ☾⋆⁺₊⋆🐰 Me 🐰⋆⁺₊⋆☾ </h3>
 <p>
   <a href="https://juyami.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-21375A?style=flat-square&logo=Blogger&logoColor=white&link=https://juyami.tistory.com/"/></a>&nbsp
