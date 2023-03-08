@@ -33,3 +33,10 @@
   <a href="https://juyeong-s-resume.notion.site/9f7f088076de4e72a52f112a26a4956d"><img src="https://img.shields.io/badge/Resume-9999FF?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://juyeong-s-resume.notion.site/9f7f088076de4e72a52f112a26a4956d"/></a>&nbsp
 </p>
 </div>
+
+<div>
+- `네이버 커넥트재단 <부스트캠프 웹・모바일 7기> 멤버십` - 2022.08 ~ 2022.12
+- `네이버 커넥트재단 <부스트캠프 웹・모바일 7기> 챌린지` - 2022.07 ~ 2022.08
+- `멋쟁이 사자처럼 9기` - 2021.03 ~ 2021.12
+- `코넥트 웹 풀스택 개발자 인턴` - 2021.07 ~ 2021.08
+</div>
