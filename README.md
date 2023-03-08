@@ -11,13 +11,14 @@
 <div>
   <img src="https://img.shields.io/badge/JavaScript-FFC81E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <br/>
+  <br/>
   <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-66595C?style=flat-square&logo=Zerply&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
-    <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </div>
