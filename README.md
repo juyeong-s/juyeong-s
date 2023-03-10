@@ -35,8 +35,8 @@
   <a href="https://juyeong-s-resume.notion.site/9f7f088076de4e72a52f112a26a4956d">
     <img src="https://img.shields.io/badge/Resume-9999FF?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://juyeong-s-resume.notion.site/9f7f088076de4e72a52f112a26a4956d"/>
   </a>
-  <a href="https://juyami.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-21375A?style=flat-square&logo=Blogger&logoColor=white&link=https://juyami.tistory.com/"/>
+  <a href="https://juyami.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-21375A?style=flat-square&logo=Blogger&logoColor=white&link=https://juyami.tistory.com"/>
   </a>
    <a href="https://velog.io/@shinoung2360">
      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@shinoung2360"/>
